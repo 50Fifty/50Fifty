@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 
 
-https://github-readme-stats.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true
+
+![Sean's Github stats](https://github-readme-stats.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true)
 
 
 <!---
