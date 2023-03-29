@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sean
 
-Check out my <a href="www.foojensean.com">portfolio</a>!
+Check out my [portfolio](https://foojensean.com).
 
 ### 👀 I’m interested in Software Engineering and Web Development
 
@@ -9,9 +9,9 @@ Check out my <a href="www.foojensean.com">portfolio</a>!
 
 ### 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/foojensean/"><img align="left" height="32px" width="32px" alt="LinkedIn logo" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/foojensean/"><img align="left" height="32px" width="32px" alt="LinkedIn logo" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 
-<a href="https://www.instagram.com/foojensean/"><img align="left" height="32px" width="32px" alt="Instagram logo" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>
+<a href="https://www.instagram.com/foojensean/"><img align="left" height="32px" width="32px" alt="Instagram logo" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>
 
 <br>
 <br>
@@ -26,6 +26,8 @@ Check out my <a href="www.foojensean.com">portfolio</a>!
 
 <br>
 <br>
+
+### 📈 My GitHub Stats
 
 ![Sean's Github stats](https://github-readme-stats.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical)
 
