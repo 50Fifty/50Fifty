@@ -1,7 +1,3 @@
-]# Name: Sean Foo
-]# Date: 2021-09-01
-]# Description: My GitHub profile README.md file
-
 ### 👋 Hi, I’m Sean
 
 Check out my <a href="www.foojensean.com">portfolio</a>!
