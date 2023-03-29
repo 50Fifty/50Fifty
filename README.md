@@ -8,9 +8,11 @@ Check out my <a href="www.foojensean.com">portfolio</a>.
 
 ### 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/foojensean/"><img align="left" height="32px" width="32px" alt="LinkedIn logo" src="https://bit.ly/3qZmQcU"></a>
+<a href="https://www.linkedin.com/in/foojensean/"><img align="left" height="32px" width="32px" alt="LinkedIn logo" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg"></a>
 
-<a href="https://www.instagram.com/foojensean/"><img align="left" height="32px" width="32px" alt="Instagram logo" src="https://bit.ly/3qZmQcU"></a>
+<a href="https://www.instagram.com/foojensean/"><img align="left" height="32px" width="32px" alt="Instagram logo" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>
+
+
 
 ### 📐 Languages and Tools
 
@@ -23,6 +25,8 @@ Check out my <a href="www.foojensean.com">portfolio</a>.
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU">
 <img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
 <img align="left" height="32px" width="32px" alt="GitHub logo" src="https://bit.ly/3nlY4kZ">
+
+<br>
 
 ![Sean's Github stats](https://github-readme-stats.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true)
 
