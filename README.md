@@ -6,14 +6,15 @@ Check out my <a href="www.foojensean.com">portfolio</a>!
 
 <h2>🌱 I’m currently learning Computer Science in university.</h2>
 
----
+
 <h2>📫 How to reach me:</h2>
 
 <a href="https://www.linkedin.com/in/foojensean/"><img align="left" height="32px" width="32px" alt="LinkedIn logo" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg"></a>
 
 <a href="https://www.instagram.com/foojensean/"><img align="left" height="32px" width="32px" alt="Instagram logo" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>
 
----
+<br>
+<br>
 <h2> 📐 Languages and Tools</h2>
 
 <img align="left" height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw">
@@ -22,7 +23,9 @@ Check out my <a href="www.foojensean.com">portfolio</a>!
 <img align="left" height="32px" width="32px" alt="CSS logo" src="https://bit.ly/37iML7j">
 <img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
 
-![Sean's Github stats](https://github-readme-stats.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true)
+<br><br>
+
+![Sean's Github stats](https://github-readme-stats.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 
 
 
