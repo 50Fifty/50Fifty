@@ -4,7 +4,7 @@ Check out my [portfolio](https://foojensean.com).
 
 ### 👀 I’m interested in Software Engineering and Web Development!
 
-### 🌱 I’m currently learning Computer Science in university.
+### 🌱 I’m currently learning Computer Science in Nanyang Technological University (NTU).
 
 
 ### 📫 How to reach me:
