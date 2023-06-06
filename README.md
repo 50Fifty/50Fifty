@@ -28,9 +28,9 @@ Check out my [portfolio](https://foojensean.com).
 <br>
 
 ### 📈 My GitHub Stats
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical">
 
-![Sean's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=50Fifty&theme=radical&layout=compact&hide_border=true" />
 
 
 <!---
