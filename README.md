@@ -28,9 +28,8 @@ Check out my [portfolio](https://foojensean.com).
 <br>
 
 ### 📈 My GitHub Stats
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=50Fifty&theme=radical&layout=compact&hide_border=true" />
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=50Fifty&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://git.io/streak-stats)
 
 
 <!---
