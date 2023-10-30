@@ -4,12 +4,16 @@
 [![Instagram Badge](https://img.shields.io/badge/-foojensean-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/foojensean/)](https://www.instagram.com/foojensean)
 [![Gmail Badge](https://img.shields.io/badge/-jenseanfoo-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jenseanfoo@gmail.com)](mailto:jenseanfoo@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/50Fifty?label=Follow&style=social)
-
-Check out my [portfolio](https://foojensean.com).
+[![Portfolio](https://img.shields.io/badge/My-Portfolio-orange?link=https://foojensean.com)](https://foojensean.com)
 
 ## 📚 About Me
 - 🎓 I'm a Computer Science undergraduate from Nanyang Technological University (NTU).
-- 🌱 I’m currently learning about web development and machine learning.
+- 🌱 Aspiring software engineer.
+- 💼 Internships:
+    - Razer (Software Engineer Intern)
+    - Accenture (Deployment Analyst Intern)
+    - Seagate Technology (Software Engineer Intern)
+    - Bosch (Corporate Information Intern)
 - 📫 How to reach me:
     - Email: jenseanfoo@gmail.com
     - LinkedIn: https://www.linkedin.com/in/foojensean/
@@ -33,11 +37,6 @@ Check out my [portfolio](https://foojensean.com).
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
-
-
-## 📊 My Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=50Fifty&layout=compact&theme=radical&hide_border=true)
 
 ### 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical&rank_icon=percentile)
