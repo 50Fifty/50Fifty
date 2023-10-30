@@ -35,10 +35,6 @@ Check out my [portfolio](https://foojensean.com).
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
 
 
-## 📊 My Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=50Fifty&layout=compact&theme=radical&hide_border=true)
-
 ### 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical&rank_icon=percentile)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=50Fifty&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
