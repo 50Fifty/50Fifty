@@ -10,6 +10,7 @@
 - 🎓 I'm a Computer Science undergraduate from Nanyang Technological University (NTU).
 - 🌱 Aspiring software engineer.
 - 💼 Internships:
+    - SquareX (Software Engineer Intern)
     - Razer (Software Engineer Intern)
     - Accenture (Deployment Analyst Intern)
     - Seagate Technology (Software Engineer Intern)
