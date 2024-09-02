@@ -10,6 +10,7 @@
 - 🎓 I'm a Computer Science undergraduate from Nanyang Technological University (NTU).
 - 🌱 Aspiring software engineer.
 - 💼 Internships:
+    - Tencent (Algorithm Software Engineer Intern)
     - Oversea-Chinese Banking Corporation Limited (Software Engineer Intern)
     - SquareX (Software Engineer Intern)
     - Razer (Software Engineer Intern)
