@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sean Foo
+# 👋 Hi, I'm Sean
 
 [![Linkedin Badge](https://img.shields.io/badge/-foojensean-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/foojensean/)](https://www.linkedin.com/in/foojensean/)
 [![Instagram Badge](https://img.shields.io/badge/-foojensean-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/foojensean)](https://www.instagram.com/foojensean)
