@@ -11,13 +11,13 @@
 - 🎓 **Computer Science undergraduate** at Nanyang Technological University (NTU)
 - 💻 **Aspiring software engineer**, passionate about coding, algorithms, and problem-solving
 - 💼 **Previous Internships**:
-  - Tencent – Algorithm Software Engineer Intern
-  - Oversea-Chinese Banking Corporation Limited – Software Engineer Intern
-  - SquareX – Software Engineer Intern
-  - Razer – Software Engineer Intern
-  - Accenture – Deployment Analyst Intern
-  - Seagate Technology – Software Engineer Intern
-  - Bosch – Corporate Information Intern
+  - Tencent – Algorithm Software Engineer Intern (2024)
+  - Oversea-Chinese Banking Corporation Limited – Software Engineer Intern (2024)
+  - SquareX – Software Engineer Intern (2024)
+  - Razer – Software Engineer Intern (2023)
+  - Accenture – Deployment Analyst Intern (2023)
+  - Seagate Technology – Software Engineer Intern (2022)
+  - Bosch – Corporate Information Intern (2018 - 2019)
 - 🌱 Currently deepening my skills in **algorithms**, **full-stack development**, and **cloud computing**
 
 ## 📫 How to Reach Me
