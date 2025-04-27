@@ -22,7 +22,7 @@
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [jenseanfoo@gmail.com](mailto:jenseanfoo@gmail.com)
+- 📧 Email: [me@foojensean.com](mailto:me@foojensean.com)
 - 💼 LinkedIn: [linkedin.com/in/foojensean](https://www.linkedin.com/in/foojensean/)
 - 📷 Instagram: [instagram.com/foojensean](https://www.instagram.com/foojensean)
 
