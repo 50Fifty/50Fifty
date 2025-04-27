@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Sean
 
-[![Linkedin Badge](https://img.shields.io/badge/-foojensean-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/foojensean/)](https://www.linkedin.com/in/foojensean/)
-[![Instagram Badge](https://img.shields.io/badge/-foojensean-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/foojensean)](https://www.instagram.com/foojensean)
-[![Gmail Badge](https://img.shields.io/badge/-jenseanfoo-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jenseanfoo@gmail.com)](mailto:jenseanfoo@gmail.com)
-![GitHub followers](https://img.shields.io/github/followers/50Fifty?label=Follow&style=social)
-[![Portfolio](https://img.shields.io/badge/My-Portfolio-orange?link=https://foojensean.com)](https://foojensean.com)
-
 ## 📚 About Me
 
 - 🎓 **Computer Science undergraduate** at Nanyang Technological University (NTU)
@@ -21,7 +15,6 @@
 - 🌱 Currently deepening my skills in **algorithms**, **full-stack development**, and **cloud computing**
 
 ## 📫 How to Reach Me
-
 - 📧 Email: [me@foojensean.com](mailto:me@foojensean.com)
 - 💼 LinkedIn: [linkedin.com/in/foojensean](https://www.linkedin.com/in/foojensean/)
 - 📷 Instagram: [instagram.com/foojensean](https://www.instagram.com/foojensean)
