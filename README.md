@@ -41,7 +41,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
 
 ## 📈 My GitHub Stats
-https://github-readme-stats-foo-jen-seans-projects.vercel.app/
 ![GitHub Stats](https://github-readme-stats-foo-jen-seans-projects.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=50Fifty&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
