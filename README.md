@@ -42,6 +42,7 @@
 
 ## 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats-foo-jen-seans-projects.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=50Fifty&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats-foo-jen-seans-projects.vercel.app/api/top-langs/?username=50Fifty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
