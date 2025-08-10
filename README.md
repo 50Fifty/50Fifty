@@ -5,7 +5,7 @@
 - 🎓 **Computer Science undergraduate** at Nanyang Technological University (NTU)
 - 💻 **Aspiring software engineer**, passionate about coding, algorithms, and problem-solving
 - 💼 **Previous Internships**:
-  - PXT Equity - Developer Intern (2025)
+  - PXT Equity – Developer Intern (2025)
   - Tencent – Algorithm Software Engineer Intern (2024)
   - Oversea-Chinese Banking Corporation Limited – Software Engineer Intern (2024)
   - SquareX – Software Engineer Intern (2024)
