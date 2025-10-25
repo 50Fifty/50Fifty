@@ -2,7 +2,7 @@
 
 ## 📚 About Me
 
-- 🎓 **Computer Science undergraduate** at Nanyang Technological University (NTU)
+- 🎓 Final year **Computer Science undergraduate** at Nanyang Technological University (NTU)
 - 💻 **Aspiring software engineer**, passionate about coding, algorithms, and problem-solving
 - 💼 **Previous Internships**:
   - PXT Equity – Developer Intern (2025)
