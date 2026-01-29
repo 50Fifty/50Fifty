@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Sean
 
 ## 📚 About Me
-
-- 🎓 Final year **Computer Science undergraduate** at Nanyang Technological University (NTU)
 - 💻 **Software Engineer** at TikTok (Privacy & Security)
+- 🎓 **B.Comp. in Computer Science** from Nanyang Technological University
 - 💼 **Previous Internships**:
   - PXT Equity – Developer Intern (2025)
   - Tencent – Algorithm Software Engineer Intern (2024)
