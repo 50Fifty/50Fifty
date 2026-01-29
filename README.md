@@ -3,7 +3,7 @@
 ## 📚 About Me
 
 - 🎓 Final year **Computer Science undergraduate** at Nanyang Technological University (NTU)
-- 💻 **Aspiring software engineer**, passionate about coding, algorithms, and problem-solving
+- 💻 **Software Engineer** at TikTok (Privacy & Security)
 - 💼 **Previous Internships**:
   - PXT Equity – Developer Intern (2025)
   - Tencent – Algorithm Software Engineer Intern (2024)
