@@ -75,10 +75,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-foo-jen-seans-projects.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=50Fifty&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-foo-jen-seans-projects.vercel.app/api?username=50Fifty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
 
-  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=50Fifty&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Streak" />
 
   <img src="https://github-readme-stats-foo-jen-seans-projects.vercel.app/api/top-langs/?username=50Fifty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical&layout=compact" alt="Top Langs" />
 </div>
