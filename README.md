@@ -79,10 +79,20 @@
 
   <img src="https://streak-stats.demolab.com/?user=50Fifty&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Streak" />
 
+  <br/>
+
   <img src="https://github-readme-stats-foo-jen-seans-projects.vercel.app/api/top-langs/?username=50Fifty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical&layout=compact" alt="Top Langs" />
 </div>
 
 <br/>
+
+---
+
+## 📈 Strava Stats
+<div align="center">
+  <img src="https://strava-github-readme.vercel.app/api" alt="Strava Stats" />
+</div>
+
 
 <!---
 50Fifty/50Fifty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
