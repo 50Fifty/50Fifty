@@ -90,7 +90,9 @@
 
 ## 📈 Strava Stats
 <div align="center">
+<a href="https://www.strava.com/athletes/113468349">
   <img src="https://strava-github-readme.vercel.app/api" alt="Strava Stats" />
+</a>
 </div>
 
 
