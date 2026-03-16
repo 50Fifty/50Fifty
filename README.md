@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/50Fifty">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Sean+%F0%9F%91%8B;Software+Engineer+%40+TikTok;CS+Graduate+%40+NTU;Algorithms+%7C+Full-Stack+%7C+Cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Sean+%F0%9F%91%8B;Software+Engineer+%40+TikTok;CS+Graduate+%40+NTU;Algorithms+%7C+Full-Stack+%7C+Cloud" alt="Typing SVG" />
   </a>
 
   <br/>
