@@ -23,7 +23,7 @@
 
 - 💻 **Current Role:** Software Engineer at **TikTok** (Privacy & Security)
 - 🎓 **Education:** B.Comp. in Computer Science from **Nanyang Technological University** (NTU)
-- 🌱 **Always Learning:** Deepening my skills in **algorithms**, **full-stack development**, and **cloud computing**
+- 🌱 **Always Learning:** Deepening my skills in **algorithms**, **full-stack development**, and **artificial intelligence**
 
 <details>
 <summary><b>💼 View Past Internships</b></summary>
