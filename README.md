@@ -17,8 +17,6 @@
   </a>
 </div>
 
----
-
 ## 👨‍ About Me
 
 - 💻 **Current Role:** Software Engineer at **TikTok** (Privacy & Security)
@@ -41,8 +39,6 @@
 | Corporate Information Intern | **Bosch** | 2018 - 2019 |
 
 </details>
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -70,8 +66,6 @@
 ![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -85,8 +79,6 @@
 </div>
 
 <br/>
-
----
 
 ## 📈 Strava Stats
 <div align="center">
