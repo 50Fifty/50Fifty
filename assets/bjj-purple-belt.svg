@@ -1,0 +1,32 @@
+<svg width="640" height="120" viewBox="0 0 640 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">BJJ Purple Belt Badge</title>
+  <desc id="desc">A purple Brazilian Jiu-Jitsu belt with a black rank section.</desc>
+  <defs>
+    <linearGradient id="purple" x1="120" y1="16" x2="620" y2="104" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#6D28D9"/>
+    </linearGradient>
+    <linearGradient id="black" x1="0" y1="0" x2="0" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111111"/>
+      <stop offset="0.5" stop-color="#050505"/>
+      <stop offset="1" stop-color="#1B1B1B"/>
+    </linearGradient>
+    <pattern id="weave" width="14" height="14" patternUnits="userSpaceOnUse">
+      <rect width="14" height="14" fill="white" fill-opacity="0"/>
+      <path d="M0 3H14" stroke="white" stroke-opacity="0.08" stroke-width="2"/>
+      <path d="M0 10H14" stroke="black" stroke-opacity="0.06" stroke-width="2"/>
+    </pattern>
+  </defs>
+
+  <rect x="6" y="18" width="628" height="84" fill="#F8FAFC" fill-opacity="0.15"/>
+
+  <rect x="0" y="24" width="76" height="72" fill="url(#purple)"/>
+  <rect x="76" y="24" width="150" height="72" fill="url(#black)"/>
+  <rect x="226" y="24" width="414" height="72" fill="url(#purple)"/>
+
+  <rect x="0" y="24" width="640" height="72" fill="url(#weave)"/>
+
+  <rect x="0" y="24" width="640" height="72" stroke="#FFFFFF" stroke-opacity="0.7" stroke-width="2"/>
+
+</svg>

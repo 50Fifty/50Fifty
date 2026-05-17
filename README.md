@@ -17,6 +17,8 @@
   </a>
 </div>
 
+---
+
 ## 👨‍ About Me
 
 - 💻 **Current Role:** Software Engineer at **TikTok** (Privacy & Security)
@@ -40,6 +42,21 @@
 
 </details>
 
+---
+
+## 🧩 Skills
+
+![Algorithms](https://img.shields.io/badge/Algorithms-4B8BBE?style=for-the-badge&logo=leetcode&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-6A5ACD?style=for-the-badge&logo=stackshare&logoColor=white)
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=internetarchive&logoColor=white)
+![Security](https://img.shields.io/badge/Security-2ECC71?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-F5A623?style=for-the-badge&logo=probot&logoColor=white)
+<img src="./assets/bjj-purple-belt.svg" alt="BJJ purple belt badge" height="36" />
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages & Frameworks
@@ -48,6 +65,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <br/>
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -63,8 +81,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 ## 📈 GitHub Stats
 
@@ -79,6 +99,8 @@
 </div>
 
 <br/>
+
+---
 
 ## 📈 Strava Stats
 <div align="center">
