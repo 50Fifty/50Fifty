@@ -53,6 +53,8 @@
 ![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=internetarchive&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-2ECC71?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-F5A623?style=for-the-badge&logo=probot&logoColor=white)
+<br/>
+
 <img src="./assets/bjj-purple-belt.svg" alt="BJJ purple belt badge" height="36" />
 
 ---
